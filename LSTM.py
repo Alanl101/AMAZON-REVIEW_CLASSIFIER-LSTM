@@ -3,6 +3,8 @@
 LSTM Model by Alan Lopez based on Amazon data All_Beauty. All_Beauty is a dataset 
 given by amazon for free based on reviews left on Amazon products.
 
+Keep in mind! All beauty must be downloaded and in the same file path as this LSTM model. 
+All beauty can be found at:  https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/
 """
 
 import json
